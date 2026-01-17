@@ -1,0 +1,225 @@
+ I wanted to start a business. I already opened a page named Axiom Gearz. Here I want to sell some electronics products. My father has his own shop and I want to sell some products online. As I have a page which is not still that much active. I will do it also. So my main target is to build a website. 
+
+🔹 1. Product Categories + Filters
+Because you sell MANY types of electronics.
+Categories example:
+Speakers
+JBL
+5 Core
+Box Speakers (Small / Medium / Big)
+Column Speakers
+Audio Equipment
+Amplifiers
+Microphones
+Mics & Stands
+Networking
+Routers
+ONU
+Accessories
+Cables
+Multiplugs
+Car Audio
+Car Sets
+Filters:
+Price (low → high)
+Brand
+Size / Power (for speakers)
+Availability (In stock)
+
+
+🔹 2. Stock Availability Indicator
+✅ In Stock
+⏳ Limited Stock
+❌ Out of Stock
+🔹 3. Order Tracking 
+Order Confirmed
+Packed
+Out for Delivery
+Delivered
+4. Step 1: Browse Website
+Customer visits website
+Views products
+Uses filters/categories
+Checks specs, price, warranty, reviews
+Step 2: Add to Cart
+Select product
+Choose options (if any)
+Add to cart
+           Step 3: Checkout (Main Action)
+Customer completes:
+Address OR Store Pickup
+Delivery area selection
+Payment method:
+bKash
+Nagad
+Bank
+COD
+Confirms order
+
+
+Step 4: Automatic Order Confirmation
+Website sends:
+Order ID
+Product summary
+Payment method
+Estimated delivery time
+This can be:
+On-screen confirmation page
+Email (optional)
+SMS (later)
+Delivery Options
+Give customer control:
+Home Delivery
+Store Pickup 
+
+8. Warranty & Authenticity Section
+Especially for:
+JBL
+Amplifiers
+Speakers
+Example:
+Original product guarantee
+Shop warranty
+Brand warranty (if applicable)
+Customers can also review products on the website. They don't need whatsapp feedback screenshots. They can put star ratings or comment or upload picture in review section. 
+
+
+
+4. Admin & Business Features (Backend Side)
+You don’t show these to customers but you NEED them.
+🔹 12. Admin Dashboard
+Add / edit products
+Update prices
+Change stock status
+View orders
+Update delivery status
+🔹 13. Order Management
+Filter orders by:
+Payment type
+Delivery area
+Order status
+🔹 14. Basic Analytics
+Best-selling products
+Daily / weekly orders
+COD vs online payment ratio
+
+📄 Axiom Gearz – Website Page Structure
+I’ll divide pages into 3 layers:
+Public Pages (no login)
+Auth Pages (login/signup)
+User Pages (after login)
+Admin Pages (backend – for later)
+
+NavBar: [ Logo ]   [ Home | Shop | About | Contact ] [aearch icon]   [ Cart Icon | Login/Logout ] (Dynamic login/logout)
+Menu Items:
+Home
+Shop
+Categories ▼
+About Us
+Support
+🏠 1. Home Page
+Purpose: First impression + trust + direction
+Sections:
+Hero section ( Carousel of images or features, Big heading + tagline, CTA buttons (e.g., “Shop Now”, “Get Started”))
+ “Axiom Gearz – Smart Tech. Real Value.”
+Product categories (Speakers, Audio, Networking, Accessories, Car Audio)
+Why choose Axiom Gearz?
+Original products
+Local store support
+Fast delivery
+Contact us 
+Footer (links + contact)
+🛍️ 2. Shop / Products Page
+Features:
+Category sidebar
+Filters (price, brand, type)
+Product cards:
+Image
+Name
+Price
+Stock status
+Rating
+Search bar
+📦 3. Product Detail Page
+Sections:
+Product images (gallery)
+Name + price
+Stock availability
+Specifications
+Warranty & authenticity info
+Add to Cart button
+“Need help?” WhatsApp link
+Reviews (read-only for guests)
+🧑‍💼 4. About Us
+Content:
+Story of Axiom Gearz
+Father’s physical shop mention
+Experience & reliability
+Mission & values
+
+
+📞 5. Contact / Support Page
+Options:
+WhatsApp chat
+Phone number
+Store address (Google Map)
+Business hours
+🚚 6. Delivery & Payment Info
+Details:
+Delivery areas
+Delivery time
+COD rules
+bKash / Nagad / Bank payment info
+Store pickup option
+🔐 8. Login Page
+Options:
+Email + password
+Google log in 
+✍️ 9. Sign Up Page
+Minimal fields:
+Name
+Email phone password address
+Google or social media log in 
+3️⃣ User Pages (After Login)
+🛒 10. Cart Page
+Features:
+Product list
+Quantity update
+Price summary
+Proceed to checkout
+💳 11. Checkout Page
+Steps:
+Delivery address / store pickup
+Payment method selection
+Order summary
+Confirm order
+✅ 12. Order Confirmation Page
+Shows:
+Order ID
+Order details
+Payment status
+Estimated delivery
+Buttons:
+Track Order
+Contact Support (WhatsApp)
+📦 13. My Orders Page
+Features:
+Order list
+Status tracking
+View details
+⭐ 14. Reviews Page (Per Product)
+Only logged-in users
+Only verified buyers can post
+👤 15. My Account Page
+Options:
+Profile info
+Saved addresses
+Logout
+4️⃣ Admin Pages (Backend – Later Phase)
+(Not visible to customers)
+Admin login
+Product management
+Order management
+Stock control
+Payment verification
+Analytics dashboard
